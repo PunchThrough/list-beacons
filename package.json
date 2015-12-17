@@ -1,0 +1,11 @@
+{
+  "name": "list-beacons",
+  "private": true,
+  "description": "List iBeacons near you",
+  "main": "index.js",
+  "author": "Punch Through",
+  "license": "MIT",
+  "dependencies": {
+    "bleacon": "^0.4.0"
+  }
+}
